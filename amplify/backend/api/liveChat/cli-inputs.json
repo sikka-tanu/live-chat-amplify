@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "liveChat",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Tanu Chadha\\git\\live-chat\\amplify\\backend\\api\\liveChat\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authlivechat3ed1918f"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
